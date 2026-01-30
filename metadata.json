@@ -1,0 +1,5 @@
+{
+  "name": "Merchant Real-time Sales Dashboard",
+  "description": "A high-performance, real-time sales monitoring dashboard for merchants featuring live KPI tracking, interactive ECharts visualizations, and advanced SKU filtering.",
+  "requestFramePermissions": []
+}
